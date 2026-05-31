@@ -1,3 +1,5 @@
+// Without taking input how many numbers we want to add in the list we are addding the elements in the list
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

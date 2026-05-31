@@ -1,6 +1,10 @@
-import java.util.*;
+//Experiments
 
-public class timepaas0 {
+//Putting keys and values directly in the list
+//Also building the String in required form using StringBuilder
+
+import java.util.*;
+public class timepass0 {
     public static void main(String[] args) {
         Map<Integer,String> map = new HashMap<>();
         map.put(1,"Apple");
