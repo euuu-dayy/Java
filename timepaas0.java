@@ -27,8 +27,5 @@ public class timepaas0 {
 
         System.out.println(list2); // [1, 2, 3]
 
-
-
-        
     }
 }
