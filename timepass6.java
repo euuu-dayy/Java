@@ -13,14 +13,11 @@ public class timepass6 {
 
         System.out.println();
 
-        // str.substring(1);                    // From index 1 to end
+        // str.substring(1);           // From index 1 to end
         // str.substring(1,4);         // Index 1 to 3
 
         // str.toUpperCase();          // HELLO
         // str.toLowerCase();          // hello
-
-        // str.equals("Hello");        // Compare content
-        // str.equalsIgnoreCase("hello");
 
         // str.equals("Hello");        // Compare content
         // str.equalsIgnoreCase("hello");
