@@ -46,6 +46,8 @@ public class timepass6 {
         //AI-DR-DC-RR-TCS-CL
         //append , insert, delete , deleteCharAt , replace , reverse , toString , charAt , setCharAt , capacity , length
 
+        /* 
+
         sb.append(" World");        // Add at end
 
         sb.insert(2,"ABC");         // Insert
@@ -67,6 +69,8 @@ public class timepass6 {
         sb.capacity();              // Capacity
 
         sb.length();                // Length
+
+        */
 
         //By default capacity of StringBuilder is 16 
         //when the capacity is exceeded then the 
